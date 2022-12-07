@@ -26,6 +26,17 @@ A website that allows you to order pizza online through an e-commerce store
 - Firebase: As a DataBase
 
 
+## How to Install Local Machine
+
+### Client 
+1. Clone repo using `https://github.com/MahamudM90/dietify.git`
+2. Change directory using `cd dietify-client`
+3. Install all dependencies using `npm install`
+5. Run the Project using `npm start`
+👤 Known Bugs
+
+Feel free to email me at mahamud15-10467@diu.edu.bd if you run into any issues or have questions, ideas or concerns. Please enjoy
+and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
 
 
 
