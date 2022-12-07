@@ -2,14 +2,7 @@
 A website that allows you to order pizza online through an e-commerce store
 
 ### Live Site
-[Resellable Client](https://reusable-a1665.web.app/) <br>
-[Resellable Server](https://reusable-k9mciiqr9-mahamudm90.vercel.app/)
-
-### Admin Information
-
-- Admin Email: mahamud@gmail.com
-
-- Admin Password: Mahamud123456@
+[Resellable Client](https://pizza-man-61510.web.app) <br>
 
 
 ### Features
