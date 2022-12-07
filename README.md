@@ -32,6 +32,7 @@ A website that allows you to order pizza online through an e-commerce store
 2. Change directory using `cd pizza-man`
 3. Install all dependencies using `npm install`
 5. Run the Project using `npm start`
+
 👤 Known Bugs
 
 Feel free to email me at mahamud15-10467@diu.edu.bd if you run into any issues or have questions, ideas or concerns. Please enjoy
