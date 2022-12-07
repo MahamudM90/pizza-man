@@ -19,21 +19,13 @@ A website that allows you to order pizza online through an e-commerce store
 - User can see the order details.
 
 
-### Frontend Technology
-- React
-- React Router
-- React Tailwind
-- React Hook Form
-- React Image Gallery
-- React Toastify
-- React Icons
-- React Stripe
+### Tools Used
+- React: To create the Single Page App
+- React-Router: For Routing
+- Redux: For State Management
+- Firebase: As a DataBase
 
 
-### Backend Technology
-- Node.js
-- Express.js
-- MongoDB
-- Firebase Authentication
-- Vercel
+
+
 
