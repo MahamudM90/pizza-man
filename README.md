@@ -2,7 +2,7 @@
 A website that allows you to order pizza online through an e-commerce store
 
 ### Live Site
-[Resellable Client](https://pizza-man-61510.web.app) <br>
+[pizza-man](https://pizza-man-61510.web.app) <br>
 
 
 ### Features
