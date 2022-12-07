@@ -28,8 +28,8 @@ A website that allows you to order pizza online through an e-commerce store
 
 ## How to Install Local Machine
 
-1. Clone repo using `https://github.com/MahamudM90/dietify.git`
-2. Change directory using `cd dietify-client`
+1. Clone repo using `https://github.com/MahamudM90/pizza-man.git`
+2. Change directory using `cd pizza-man`
 3. Install all dependencies using `npm install`
 5. Run the Project using `npm start`
 👤 Known Bugs
