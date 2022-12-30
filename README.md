@@ -23,7 +23,7 @@ A website that allows you to order pizza online through an e-commerce store
 - React: To create the Single Page App
 - React-Router: For Routing
 - Redux: For State Management
-- Firebase: As a DataBase
+- Firebase: As the DataBase
 
 
 ## How to Install Local Machine
